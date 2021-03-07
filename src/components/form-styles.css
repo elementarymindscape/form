@@ -1,0 +1,26 @@
+.input-box {
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+  margin-left: 30px;
+}
+
+.address-box {
+  width: 60%;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 50px;
+}
+
+.Submit {
+  appearance: none;
+  -webkit-appearance: none;
+  padding: 10px;
+  border: none;
+  background-color: #3f51b5;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-left: 40px;
+  width: 50%;
+}
